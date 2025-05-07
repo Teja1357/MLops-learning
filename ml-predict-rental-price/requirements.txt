@@ -1,2 +1,6 @@
 pandas
-sckit-learn
+scikit-learn
+numpy
+joblib
+flask
+mlflow
