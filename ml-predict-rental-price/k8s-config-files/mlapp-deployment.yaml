@@ -5,7 +5,7 @@ metadata:
   name: mlapp-deployment
 
 spec:
-  replicas: 2
+  replicas: 4
   selector:
     matchLabels:
       app: mlapp-pods
