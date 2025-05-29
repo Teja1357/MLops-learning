@@ -16,4 +16,4 @@ EXPOSE 5000
 # Default Commands to run at start of Container
 CMD ["python","mlapp.py" ]
 
-# Dockerfile was written by Siddarth
+# Dockerfile was written by Teja
